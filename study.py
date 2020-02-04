@@ -1,0 +1,5 @@
+print('we are going to do something')
+print('apple'+'hello')
+print('apple'+'4')
+print('apple'+' 4')
+print('1+2=')
